@@ -1,2 +1,7 @@
-modified file3.txt in the master branch
+<<<<<<< HEAD
+modified file3.txt in the master branch 
+
+modified file3.txt in the feature branch
+
+>>>>>>> feature
 
